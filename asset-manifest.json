@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/aragami/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/aragami/static/js/main.51d21ec4.chunk.js",
-    "main.js.map": "/aragami/static/js/main.51d21ec4.chunk.js.map",
+    "main.js": "/aragami/static/js/main.e12d7107.chunk.js",
+    "main.js.map": "/aragami/static/js/main.e12d7107.chunk.js.map",
     "runtime-main.js": "/aragami/static/js/runtime-main.375bc846.js",
     "runtime-main.js.map": "/aragami/static/js/runtime-main.375bc846.js.map",
-    "static/js/2.1ae70d78.chunk.js": "/aragami/static/js/2.1ae70d78.chunk.js",
-    "static/js/2.1ae70d78.chunk.js.map": "/aragami/static/js/2.1ae70d78.chunk.js.map",
+    "static/js/2.d61b2ead.chunk.js": "/aragami/static/js/2.d61b2ead.chunk.js",
+    "static/js/2.d61b2ead.chunk.js.map": "/aragami/static/js/2.d61b2ead.chunk.js.map",
     "static/js/3.bc9f972d.chunk.js": "/aragami/static/js/3.bc9f972d.chunk.js",
     "static/js/3.bc9f972d.chunk.js.map": "/aragami/static/js/3.bc9f972d.chunk.js.map",
     "index.html": "/aragami/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/aragami/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.1ae70d78.chunk.js.LICENSE.txt": "/aragami/static/js/2.1ae70d78.chunk.js.LICENSE.txt"
+    "static/js/2.d61b2ead.chunk.js.LICENSE.txt": "/aragami/static/js/2.d61b2ead.chunk.js.LICENSE.txt",
+    "static/media/doge.9feb2d91.png": "/aragami/static/media/doge.9feb2d91.png"
   },
   "entrypoints": [
     "static/js/runtime-main.375bc846.js",
-    "static/js/2.1ae70d78.chunk.js",
+    "static/js/2.d61b2ead.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.51d21ec4.chunk.js"
+    "static/js/main.e12d7107.chunk.js"
   ]
 }
